@@ -3,7 +3,7 @@
 echo "All args passed to the script: $@"
 echo "Total number of arguments passed to the script: $#"
 echo "frist variable: $1"
-echo "script name: $0
+echo "script name: $0"
 echo "real path of the script: $(realpath $0)"
 echo "User ID of the user running the script: $USER"
 echo "Current working directory: $PWD"
