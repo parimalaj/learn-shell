@@ -2,7 +2,7 @@
 
 NAME="Parimala"
 AGE=30
-TODAY=$(date)
+TODAY=$(date +%Y-%m-%d)
 
-echo "My name is $NAME and I am $AGE years old. Today is $Today."
+echo "My name is $NAME and I am $AGE years old. Today is $TODAY."
 
