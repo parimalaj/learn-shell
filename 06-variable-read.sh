@@ -8,4 +8,5 @@ read -p "Enter your city: " CITY
 echo "I live in $CITY"
 
 read -s -p "Enter your password: " PASSWORD
-echo "Your Password is $PASSWORD"
+echo ""
+echo "Your Password is received"
